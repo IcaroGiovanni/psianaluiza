@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 82" role="img" aria-labelledby="title desc">
+  <title id="title">Psi. Ana Luiza - Psicologia</title>
+  <desc id="desc">Logotipo com símbolo da psicologia e nome institucional em cores da marca.</desc>
+
+  <circle cx="38" cy="41" r="28" fill="#E3F4FA"/>
+  <path d="M24 31c0 8 8 12 14 12s14-4 14-12" fill="none" stroke="#1B4B6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M38 18v28" fill="none" stroke="#1B4B6B" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="84" y="40" font-family="'Plus Jakarta Sans', 'Inter', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.2" fill="#1B4B6B">PSI.</text>
+  <text x="84" y="66" font-family="'Plus Jakarta Sans', 'Inter', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.2" fill="#4FB3D9">ANA LUIZA</text>
+  <text x="250" y="66" font-family="'Inter', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2.1" fill="#5A6B76">PSICOLOGIA</text>
+</svg>
